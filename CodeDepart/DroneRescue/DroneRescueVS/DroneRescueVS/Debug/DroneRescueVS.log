@@ -1,0 +1,38 @@
+﻿  AbsUnit.cpp
+  AdminUnit.cpp
+  Division.cpp
+  Drone.cpp
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\Drone.cpp(29,21): error C2601: 'Drone::getId' : définitions de fonctions locales non conformes
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\Drone.cpp(26,1): message : cette ligne comporte un '{' qui n'est pas équilibré
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\Drone.cpp(34,22): error C2601: 'Drone::printToStream' : définitions de fonctions locales non conformes
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\Drone.cpp(26,1): message : cette ligne comporte un '{' qui n'est pas équilibré
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\Drone.cpp(26,1): fatal  error C1075: '{' : jeton correspondant introuvable
+  DronesRescue.cpp
+  Escadron.cpp
+  EscadronAbs.cpp
+  EscadronMandataire.cpp
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\EscadronMandataire.cpp(70,10): error C2065: 'it' : identificateur non déclaré
+  Mission.cpp
+  PlanMissions.cpp
+  QG.cpp
+  Génération de code en cours...
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\PlanMissions.cpp(43): error C4716: 'PlanMissions::cbegin' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\PlanMissions.cpp(58): error C4716: 'operator<<' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\PlanMissions.cpp(63): error C4716: 'PlanMissions::printToStream' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\PlanMissions.cpp(38): error C4716: 'PlanMissions::end' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\PlanMissions.cpp(48): error C4716: 'PlanMissions::cend' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\PlanMissions.cpp(32): error C4716: 'PlanMissions::begin' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\Escadron.cpp(38): error C4716: 'Escadron::clone' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\Escadron.cpp(43): error C4716: 'Escadron::printToStream' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\Division.cpp(30): error C4716: 'Division::clone' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\AdminUnit.cpp(40): error C4716: 'AdminUnit::end' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\AdminUnit.cpp(45): error C4716: 'AdminUnit::cbegin' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\AdminUnit.cpp(50): error C4716: 'AdminUnit::cend' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\AdminUnit.cpp(30): error C4716: 'AdminUnit::addUnit' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\AdminUnit.cpp(35): error C4716: 'AdminUnit::begin' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\AbsUnit.cpp(44): error C4716: 'AbsUnit::cend' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\AbsUnit.cpp(39): error C4716: 'AbsUnit::cbegin' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\AbsUnit.cpp(34): error C4716: 'AbsUnit::end' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\AbsUnit.cpp(24): error C4716: 'AbsUnit::addUnit' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\AbsUnit.cpp(29): error C4716: 'AbsUnit::begin' : doit retourner une valeur
+C:\Users\missi\Desktop\log2400\TP\CodeDepart\DroneRescue\AbsUnit.cpp(61): error C4716: 'operator<<' : doit retourner une valeur
